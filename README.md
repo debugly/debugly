@@ -1,4 +1,6 @@
-人生有许多收获都发生在意想不到的地方，在那里我们邂逅开花，为了这个结果必须一直努力着，弦也总是绷得紧紧的...
+> 人生有许多收获都发生在意想不到的地方，在那里我们邂逅开花，为了这个结果必须一直努力着，弦也总是绷得紧紧的...
+
+Hi，朋友好久不见啊！
 
 <!--
 **debugly/debugly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

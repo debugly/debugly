@@ -1,9 +1,9 @@
-> 人生有许多收获都发生在意想不到的地方，在那里我们邂逅开花，为了这个结果必须一直努力着，弦也总是绷得紧紧的...
 
 ![debugly github stats](https://github-readme-stats.vercel.app/api?username=debugly&show_icons=true&theme=highcontrast)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debugly&show_icons=true&theme=highcontrast&hide=python&layout=compact)
 
+人生有许多收获都发生在意想不到的地方，在那里邂逅开花，为了这个结果必须一直努力着，弦也总是绷得紧紧的...
 
 <!--
 **debugly/debugly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

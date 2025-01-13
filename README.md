@@ -1,11 +1,19 @@
-
-![debugly github stats](https://github-readme-stats.vercel.app/api?username=debugly&show_icons=true&theme=highcontrast)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debugly&show_icons=true&theme=highcontrast&hide=python&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+</picture>
 
 人生有许多收获都发生在意想不到的地方，在那里邂逅开花，为了这个结果必须一直努力着，弦也总是绷得紧紧的...
 
 <!--
+
+![debugly github stats](https://github-readme-stats.vercel.app/api?username=debugly&show_icons=true&theme=highcontrast)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debugly&show_icons=true&theme=highcontrast&hide=python&layout=compact)
+
+
 **debugly/debugly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

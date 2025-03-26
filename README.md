@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=「Stay+Hungry,+Stay+Foolish」;折+腾+是+一+种+人+生+态+度)](https://git.io/typing-svg)
 
+二流开发做出了一流的水平---热爱。
 <!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">

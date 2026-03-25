@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=「Stay+Hungry,+Stay+Foolish」;折+腾+是+一+种+人+生+态+度)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=「Stay+Hungry,+Stay+Foolish」;保+持+好+奇+心)](https://git.io/typing-svg)
 
 <!--
 <picture>
